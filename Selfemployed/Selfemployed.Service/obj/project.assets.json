@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Selfemployed.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Selfemployed.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Selfemployed.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Selfemployed.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Selfemployed.Domain/Selfemployed.Domain.csproj",
+      "msbuildProject": "../Selfemployed.Domain/Selfemployed.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Selfemployed.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Амир\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\YandexDisk\\Selfemployed\\Selfemployed.Service\\Selfemployed.Service.csproj",
+      "projectName": "Selfemployed.Service",
+      "projectPath": "D:\\YandexDisk\\Selfemployed\\Selfemployed.Service\\Selfemployed.Service.csproj",
+      "packagesPath": "C:\\Users\\Амир\\.nuget\\packages\\",
+      "outputPath": "D:\\YandexDisk\\Selfemployed\\Selfemployed.Service\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Амир\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "D:\\YandexDisk\\Selfemployed\\Selfemployed.Domain\\Selfemployed.Domain.csproj": {
+              "projectPath": "D:\\YandexDisk\\Selfemployed\\Selfemployed.Domain\\Selfemployed.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

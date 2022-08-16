@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Selfemployed.Domain\Selfemployed.Domain.csproj" />
+    <ProjectReference Include="..\Selfemployed.Service\Selfemployed.Service.csproj" />
+  </ItemGroup>
+
+</Project>

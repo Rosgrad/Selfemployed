@@ -1,0 +1,15 @@
+D:\YandexDisk\Selfemployed\Selfemployed.Service\obj\Debug\net5.0\Selfemployed.Service.csproj.AssemblyReference.cache
+D:\YandexDisk\Selfemployed\Selfemployed.Service\obj\Debug\net5.0\Selfemployed.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\YandexDisk\Selfemployed\Selfemployed.Service\obj\Debug\net5.0\Selfemployed.Service.AssemblyInfoInputs.cache
+D:\YandexDisk\Selfemployed\Selfemployed.Service\obj\Debug\net5.0\Selfemployed.Service.AssemblyInfo.cs
+D:\YandexDisk\Selfemployed\Selfemployed.Service\obj\Debug\net5.0\Selfemployed.Service.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Selfemployed\Selfemployed.Service\bin\Debug\net5.0\Selfemployed.Service.deps.json
+D:\YandexDisk\Selfemployed\Selfemployed.Service\bin\Debug\net5.0\Selfemployed.Service.dll
+D:\YandexDisk\Selfemployed\Selfemployed.Service\bin\Debug\net5.0\Selfemployed.Service.pdb
+D:\YandexDisk\Selfemployed\Selfemployed.Service\bin\Debug\net5.0\Selfemployed.Domain.dll
+D:\YandexDisk\Selfemployed\Selfemployed.Service\bin\Debug\net5.0\Selfemployed.Domain.pdb
+D:\YandexDisk\Selfemployed\Selfemployed.Service\obj\Debug\net5.0\Selfemployed.Service.csproj.CopyComplete
+D:\YandexDisk\Selfemployed\Selfemployed.Service\obj\Debug\net5.0\Selfemployed.Service.dll
+D:\YandexDisk\Selfemployed\Selfemployed.Service\obj\Debug\net5.0\refint\Selfemployed.Service.dll
+D:\YandexDisk\Selfemployed\Selfemployed.Service\obj\Debug\net5.0\Selfemployed.Service.pdb
+D:\YandexDisk\Selfemployed\Selfemployed.Service\obj\Debug\net5.0\ref\Selfemployed.Service.dll

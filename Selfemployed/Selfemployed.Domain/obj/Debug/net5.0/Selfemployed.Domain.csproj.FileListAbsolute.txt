@@ -1,0 +1,12 @@
+D:\YandexDisk\Selfemployed\Selfemployed.Domain\bin\Debug\net5.0\Selfemployed.Domain.deps.json
+D:\YandexDisk\Selfemployed\Selfemployed.Domain\bin\Debug\net5.0\Selfemployed.Domain.dll
+D:\YandexDisk\Selfemployed\Selfemployed.Domain\bin\Debug\net5.0\Selfemployed.Domain.pdb
+D:\YandexDisk\Selfemployed\Selfemployed.Domain\obj\Debug\net5.0\Selfemployed.Domain.csproj.AssemblyReference.cache
+D:\YandexDisk\Selfemployed\Selfemployed.Domain\obj\Debug\net5.0\Selfemployed.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\YandexDisk\Selfemployed\Selfemployed.Domain\obj\Debug\net5.0\Selfemployed.Domain.AssemblyInfoInputs.cache
+D:\YandexDisk\Selfemployed\Selfemployed.Domain\obj\Debug\net5.0\Selfemployed.Domain.AssemblyInfo.cs
+D:\YandexDisk\Selfemployed\Selfemployed.Domain\obj\Debug\net5.0\Selfemployed.Domain.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Selfemployed\Selfemployed.Domain\obj\Debug\net5.0\Selfemployed.Domain.dll
+D:\YandexDisk\Selfemployed\Selfemployed.Domain\obj\Debug\net5.0\refint\Selfemployed.Domain.dll
+D:\YandexDisk\Selfemployed\Selfemployed.Domain\obj\Debug\net5.0\Selfemployed.Domain.pdb
+D:\YandexDisk\Selfemployed\Selfemployed.Domain\obj\Debug\net5.0\ref\Selfemployed.Domain.dll
